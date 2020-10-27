@@ -83,3 +83,4 @@ Misc links:
 * http://studyblast.wordpress.com/2011/08/14/guide-mac-os-x-lion-how-to-boot-a-linux-live-system-from-a-usb-drive-how-to-update-any-ocz-ssds-firmware/
 
 * http://superuser.com/questions/236891/how-can-one-create-a-bootable-linux-usb-key-that-works-on-mac-intel-64-bit-cpu
+Drücken Sie die Taste F4 und Z um weitere Funktionen zu erhalten!
