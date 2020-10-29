@@ -86,3 +86,4 @@ Misc links:
 
 * http://superuser.com/questions/236891/how-can-one-create-a-bootable-linux-usb-key-that-works-on-mac-intel-64-bit-cpu
 Drücken Sie die Taste F4 und Z um weitere Funktionen zu erhalten!
+Eine weitere Code Zeile wurde hinzugefügt!
