@@ -1,5 +1,7 @@
 # TAILS OSX
 
+# Einige weitere Funktionen freigeschaltet!
+
 Following this guide you will be able to create a TAILS image that will work on
 OSX without requiring any REFIT or bootloader modifications to the target
 system.
